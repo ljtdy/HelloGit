@@ -2,7 +2,7 @@ hello,git  hot-fix
 hello,git   我是来测试的
 hello,git
 
-~
+ssh test~
 ~
 ~
 ~
